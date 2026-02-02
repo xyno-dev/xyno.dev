@@ -1,1 +1,11 @@
 @import 'tailwindcss';
+
+body {
+  color: #eeeef0;
+  background-color: #22222f;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
